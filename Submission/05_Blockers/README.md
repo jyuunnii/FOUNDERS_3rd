@@ -9,6 +9,7 @@ Program
 
 Development Logbook
 ------------------
+
 1. Develompent environment
   - Android studio v3.5
   - Solidity ^0.5.10
@@ -21,7 +22,9 @@ Development Logbook
 
 Project Team members
 ------------------
+
 3. Role Allocation
+
 3.1 Planning
   - Project planning : 강수현 고재웅 김정연 박지윤 박하영 정선웅
   - User Interface Designing : 강수현 고재웅 박하영
@@ -43,6 +46,7 @@ Project Team members
  
  Project Details
  ---------------
+ 
  4.1 Project Introduction
  BeyondCloud는 블록체인 추모공간 서비스이다. </br>
  ‘구름 너머 당신을 언제까지나 기억할게요.’라는 의미의 이름이며, 사용자들은 앱을 통해 ‘잊고 싶지 않은 사람 혹은 순간’들을 블록체인 기술을 통해 온전하고 영원히 남긴다.</br>
@@ -54,6 +58,7 @@ Project Team members
  이에 대해 “사랑하는 사람에 대한 추억, 과거가 될 현재의 내 모습에 대한 기록, 먼훗날 만날 나(혹은 혹자)에게 전하는 말” 이라는 답변을 내놓으며, 영구적인 저장 공간이라는 가치를 제공한다. </br>
  
  4.3 Blockchain Application Service
+ 
  4.3.1 [Keep my love on Block]
  사랑하는 사람과의 추억을 담은 '추모공간' </br>
  시공간의 제약이 없는 블록체인 상 공간은 고인이된 그 순간에도, 그 이후에도 계속해서 '그'만의 추모 공간으로 존재합니다. </br>
