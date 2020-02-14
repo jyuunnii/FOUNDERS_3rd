@@ -53,17 +53,20 @@ Project Team members
  A simple way to make a loved one's memory on blockchain network. </br>
  BeyondCloud keeps them in very precious blocks which are secure, durable and eternal.</br>
  
- 4.2 Service Concept & Proposal
+ 4.2 Service Concept & Proposal </br>
+ 
  영구적으로 존재하는 네트워크에 사용자들은 어떤 정보를 올리고 싶을까? </br>
  이에 대해 “사랑하는 사람에 대한 추억, 과거가 될 현재의 내 모습에 대한 기록, 먼훗날 만날 나(혹은 혹자)에게 전하는 말” 이라는 답변을 내놓으며, 영구적인 저장 공간이라는 가치를 제공한다. </br>
  
  4.3 Blockchain Application Service
  
- 4.3.1 [Keep my love on Block]
+ 4.3.1 [Keep my love on Block] </br>
+ 
  사랑하는 사람과의 추억을 담은 '추모공간' </br>
  시공간의 제약이 없는 블록체인 상 공간은 고인이된 그 순간에도, 그 이후에도 계속해서 '그'만의 추모 공간으로 존재합니다. </br>
  
- 4.3.2 [Keep me on Block]
+ 4.3.2 [Keep me on Block] </br>
+ 
  과거, 현재, 그리고 미래의 나를 기록하는 공간 </br>
  나만 알아보는 말도 괜찮고, 먼 훗날의 나에게 전하고 싶은 말도 좋습니다. </br>
 '죽는날까지'가 아니라 모든 추억이 온전하고 영원히 보존된다는 개념은 사용자에게 기록에 대한 새로운 시각을 제공합니다. </br>
